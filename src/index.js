@@ -30,3 +30,4 @@ let parisTime = moment().tz("Europe/Paris");
 
 updateTime();
 setInterval(updateTime, 1000);
+
